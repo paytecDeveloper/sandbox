@@ -47,22 +47,6 @@
                         <option value="2">Privat</option>
                     </select>
                 </div>
-                <div class="form-group">
-                    <input type="range" class="form-control">
-                    <input type="search">
-                    <input type="url">
-                    <input type="week">
-                    <input type="image">
-                    <input type="file">
-                    <input type="color" class="form-control">
-                    <input type="hidden">
-                    <div class="progress">
-                        <div class="progress-bar progress-bar-success" role="progressbar" aria-valuenow="90"
-                             aria-valuemin="0" aria-valuemax="100" style="width:80%">
-                            80% Complete (success)
-                        </div>
-                    </div>
-                </div>
                 
                 <button type="submit" class="btn btn-primary btn-block">
                     Submit
